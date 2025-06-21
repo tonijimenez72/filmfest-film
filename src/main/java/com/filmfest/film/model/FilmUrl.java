@@ -1,4 +1,4 @@
-package com.filmfest.film.model.entity;
+package com.filmfest.film.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
